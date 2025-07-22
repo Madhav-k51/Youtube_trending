@@ -18,4 +18,5 @@ The YouTube Trending Video Analytics project aims to uncover patterns in trendin
 - SQL: For querying and ranking video categories based on average views.
 - Power BI : For creating interactive dashboards and visualizations for trending videos across various regions.
 
-
+Data 
+- I have to use two different countries to analyze the youtube trending videos.
